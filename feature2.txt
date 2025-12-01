@@ -1,0 +1,13 @@
+⭐ What is Git Shelf (Shelving)?
+
+Git Shelf is NOT part of Git.
+It is a feature of IDEs like PyCharm / IntelliJ / Android Studio.
+
+It lets you:
+
+✔ Temporarily store your changes
+✔ Without using Git stash
+✔ Without committing
+✔ Without touching your Git history
+
+This is only inside the IDE.
