@@ -1,0 +1,8 @@
+
+
+✔ Temporarily store your changes
+✔ Without using Git stash
+✔ Without committing
+✔ Without touching your Git history
+
+This is only inside the IDE.
